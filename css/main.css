@@ -21,17 +21,3 @@ html {
 body {
   margin: 0;
 }
-
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
-figure {
-  margin: 0;
-  padding: 1rem;
-}
-
-figcaption {
-  padding: .5em;
-}
